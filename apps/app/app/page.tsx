@@ -14,6 +14,7 @@ export default async function Index() {
             <h1>
               <span> Hello there,  </span>
               Welcome Jitendra. 👋
+              <span>, 31</span>
             </h1>
           </div>
 
