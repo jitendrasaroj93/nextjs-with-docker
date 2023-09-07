@@ -15,6 +15,7 @@ export default async function Index() {
               <span> Hello there,  </span>
               Welcome Jitendra. 👋
               <span>, 31</span>
+              College: <span>IIT K</span>
             </h1>
           </div>
 
