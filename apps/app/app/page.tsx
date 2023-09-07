@@ -12,8 +12,8 @@ export default async function Index() {
         <div className="container">
           <div id="welcome">
             <h1>
-              <span> Hello there, </span>
-              Welcome app 👋
+              <span> Hello there,  </span>
+              Welcome Jitendra. 👋
             </h1>
           </div>
 
